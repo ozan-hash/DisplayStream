@@ -1,75 +1,72 @@
-# CleanQix: Google Ads Launch & Growth Proposal
+# CleanQix – Google Ads Plan
 
-## Summary
-We will launch CleanQix on Google Ads with **two campaigns**: a Search campaign that captures active demand and a Performance Max (Shopping) campaign that puts the product in front of buyers across Google's network. The starting budget is **$120–150/day in total** (≈ $3,600–4,500/month). Our research shows the addressable audience for no-rinse food-contact wipes is larger than this budget can fully cover. So we'll spend the first month learning what converts, and then set the budget for month 2 onward from real performance data rather than guesses.
+## Our plan in short
+We want to start CleanQix on Google Ads with **2 campaigns**:
+1. **Search**: to catch people who are already looking for this kind of product
+2. **Performance Max (Shopping)**: to show the product with image and price to new buyers
 
-## 1. Campaign structure
+We will start with **$120–150 per day in total** (around $3,600–4,500 per month).
 
-**Campaign 1: Search (demand capture)**
-Five ad groups, each built around a specific industry or job-to-be-done:
+Our research shows this market is bigger than this budget. But it's a new product and we don't have data yet. So we think it's not right to give a long-term budget now. We will run the first month, look at the real results, and then decide the budget together.
 
-| Ad group | Intent |
+## Campaign 1 – Search
+5 ad groups, each one for a different need or industry:
+- **Brand**: people searching "CleanQix"
+- **No-Rinse / Food Contact**: people looking for no-rinse, food-safe wipes
+- **Restaurant & Foodservice**: restaurants, bars, cafeterias, catering, food trucks
+- **Prep Surface & Utensil**: cutting boards, prep tables, utensils
+- **Compliance**: people who care about NSF, inspections and food safety
+
+We prepared 62 keywords. Every ad group will have its own ad text written for that audience. We will also block the wrong searches (home use, baby wipes, DIY, jobs etc.) so we don't waste money.
+
+## Campaign 2 – Performance Max
+- Uses your product feed from Merchant Center
+- Images from your website + new ad texts
+- We will exclude brand searches here, so PMax brings **new** customers and doesn't take credit for people who already know you
+
+## Budget split
+
+| Campaign | Per day |
 |---|---|
-| Brand – CleanQix | People searching for CleanQix by name |
-| No-Rinse / Food Contact | Buyers looking for the *functionality* |
-| Restaurant & Foodservice | Restaurants, bars, cafeterias, catering, food trucks |
-| Prep Surface & Utensil | Cutting boards, prep tables, utensils |
-| Compliance & Certification | Buyers driven by inspections, NSF and pathogen concerns |
+| Search | $70–85 |
+| Performance Max | $50–65 |
+| **Total** | **$120–150** |
 
-- 62 researched keywords (phrase and exact match), with free-shipping searches folded into the relevant groups.
-- One responsive search ad per group, written for that audience's specific need.
-- An active negative-keyword list (household, baby/personal wipes, DIY, jobs, etc.) so budget goes only to commercial buyers.
+## Step by step
 
-**Campaign 2: Performance Max (Shopping)**
-- Runs off the Merchant Center product feed, with an optimized product title and description.
-- Creative uses the site's product imagery plus copy written for PMax.
-- Audience signals: our keyword themes, site visitors and any existing customer lists.
-- Brand terms are excluded so PMax finds *new* customers instead of taking credit for brand searches.
+**Before we start**
+- Set up conversion tracking (purchase, add to cart, checkout) and GA4
+- Check the Merchant Center feed
+- Confirm the product claims with you (NSF, no-rinse, norovirus, free shipping), so Google approves the ads
 
-## 2. Budget
+**First month – learning**
+- Search starts with a click-focused strategy, and after about 2 weeks we move to a conversion-focused one
+- We check the search terms 2–3 times a week and clean the bad ones
+- We test different messages: function vs. industry vs. compliance
+- We leave PMax alone to learn (it needs 2–3 weeks)
 
-| | Daily | Share | Why |
-|---|---|---|---|
-| Search | $70–85 | ~55–60% | Highest intent, and gives us clear search-term data from day one |
-| Performance Max | $50–65 | ~40–45% | Reach and Shopping visibility; needs budget to learn |
-| **Total** | **$120–150** | | ≈ $3,600–4,500 / month |
+**End of month 1 – review together**
+We will share a report with:
+- Cost per sale and ROAS for each campaign
+- Which ad groups and messages sell better
+- How much traffic we miss because of budget
 
-We deliberately don't forecast budget beyond month 1. Until we see conversion rates and cost per acquisition in this market, a longer projection would be a guess.
+Then we decide:
+- **Good results and budget is limited** → we increase the budget step by step
+- **Good results but budget is enough** → we add new keywords and audiences first
+- **Weak results** → we move budget to the best groups and fix the weak parts before spending more
 
-## 3. Growth roadmap
+**Month 2–3 – grow**
+- Move to smarter bidding (target CPA / ROAS) when we have enough sales
+- Add remarketing for people who didn't finish the order and for repeat buyers
+- Test bulk packs or subscription offers
+- Maybe test Microsoft Ads (good for B2B buyers and usually cheaper clicks)
 
-**Week 0: Foundations (before spend)**
-- Conversion tracking: purchase, add-to-cart, begin checkout; enhanced conversions; GA4 link.
-- Merchant Center feed review and approval.
-- Confirm product claims (no-rinse, NSF, EPA/pathogen, free shipping) so that the ads are compliant and approved first time.
+## What we need from you
+1. Product label and certificates (to confirm the claims)
+2. Shipping policy (is free shipping for all orders or above some amount?)
+3. Access to Google Ads, Merchant Center and the website
+4. Prices, pack sizes and any launch offer
+5. Customer list, if you have one (optional, helps PMax)
 
-**Weeks 1–4: Launch & learn**
-- Search on *Maximize Clicks* with a CPC cap for the first ~2 weeks to gather clean data, then switch to *Maximize Conversions*.
-- Review search terms 2–3 times a week: add negatives and promote converting queries to exact match.
-- Test ad copy angles by ad group: functionality vs. industry vs. compliance.
-- PMax is left to learn with minimal changes (it needs ~2–3 weeks).
-
-**Month 1 review: data-driven budget decision**
-We'll report and decide on:
-- Cost per acquisition and ROAS by campaign and ad group
-- Conversion rate, CTR and CPC trends
-- **Impression share lost to budget.** This is the key signal for how much demand we're leaving unserved.
-- Which industries and messages convert best
-
-Decision rules:
-- **Profitable + limited by budget** → scale that campaign by 15–20% every 3–5 days.
-- **Profitable + not limited** → expand keywords and audiences before adding budget.
-- **Unprofitable** → shift budget to the winning ad groups, fix the landing page or offer, and hold total spend.
-
-**Months 2–3: Optimize & scale**
-- Move to target CPA/ROAS bidding once each campaign has ~30+ conversions in 30 days.
-- Reallocate budget toward the best-performing industries and messages.
-- Add remarketing (cart abandoners, repeat orders) and test bulk and subscription offers for recurring B2B buyers.
-- Evaluate Microsoft Ads, which reaches B2B and office buyers well at a lower CPC.
-
-## 4. What we need from you
-1. Written confirmation of product claims and certifications (label and certificates)
-2. Shipping policy (free-shipping threshold, if any)
-3. Merchant Center and Google Ads access, and site access for tracking
-4. Pricing, pack sizes and any launch offer
-5. Existing customer list (optional; improves PMax targeting)
+Thank you, happy to talk about any questions!
